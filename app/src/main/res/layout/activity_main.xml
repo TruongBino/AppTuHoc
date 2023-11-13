@@ -91,12 +91,12 @@
                             <com.google.android.material.tabs.TabItem
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
-                                android:text="test" />
+                                android:text="Study" />
 
                             <com.google.android.material.tabs.TabItem
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent"
-                                android:text="test2" />
+                                android:text="Finished" />
 
                         </com.google.android.material.tabs.TabLayout>
 
