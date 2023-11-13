@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">AppTuHoc</string>
+    <string name="app_name">Self-Study Application</string>
+    <string name="title_activity_signup">signupActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="default_username">User Name</string>
+    <string name="userlogged">userlogged</string>
+    <string name="userid">userid</string>
 </resources>
